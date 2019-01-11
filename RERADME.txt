@@ -1,0 +1,3 @@
+L'exercice de ce jour ce sont à propos du array et hash: avec les listes des journalistes ainsi que les cryptocurrencies.
+voici les collaborateurs dont: mbola,mahefa,tiavina,sahaza
+
